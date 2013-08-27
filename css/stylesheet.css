@@ -1,0 +1,30 @@
+p {
+    color:green;
+    font-family:Garamond;
+    font-size: 24px;
+}
+h3 {
+    font-family: Courier;
+}
+span{
+    background-color: yellow;
+}
+h3 {
+	font-family: Verdana;
+	color: blue;
+}
+
+p {
+	font-family: Garamond;
+	font-size: 16px;
+}
+/* comment*/
+h1 {
+    font-family: verdana;
+}
+h3 {
+    font-family: Courier;
+}
+li {
+   color: purple; 
+}
